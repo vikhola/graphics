@@ -1,2 +1,2 @@
 # graphics
-SOurce images for the vikhola project.
+Source images for the vikhola project.
